@@ -20,7 +20,7 @@ for(number of numbers) {
 }
 console.log(evensCount);
 
-//Exercise 3: Reverse and Array
+//Exercise 3: Reverse an Array
 
 //The first solution and its for loop reverses an array, however, it neccessitated the use of a secondary variable array to store the results 
 let cars = ['altima','accord','fiesta'];
@@ -55,7 +55,7 @@ for(let i = 0; i < arrayOfNumbers.length; i++) {
 
 console.log(arrayOfNumbers);
 
-//Exercise 5
+//Exercise 5: Dynamic Greeting
 
 let people = ["John","Bill","Jane"];
 function greetUsers(users) {
